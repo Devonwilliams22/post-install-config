@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Devonwilliams22/post-install-config/blob/f5fca1700d43edaa30b2edfd9fd6f6969e4c54d1/Screenshot%202025-05-13%20at%2010.20.56%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
